@@ -1,0 +1,15 @@
+:root{
+  --main-color:#745FFF,
+}
+*{
+box-sizing: border-box;
+margin: 0;
+border: 0;
+padding: 0;
+}
+body{
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family:"Nunito", serif;
+  font-weight: 400;
+}
